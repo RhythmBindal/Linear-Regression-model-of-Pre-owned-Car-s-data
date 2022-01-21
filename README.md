@@ -1,1 +1,1 @@
-# Linear-Regression-model-of-Pre-owned-Car-s-data
+# Linear-Regression-model-of-Pre-owned-Cars-data
